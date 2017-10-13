@@ -1,5 +1,6 @@
 # Utility functions for Porto Seguro Kaggle competition
 library(ggplot2)
+library(ggthemes)
 library(scales)
 library(xgboost)
 library(dplyr)
